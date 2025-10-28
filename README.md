@@ -1,6 +1,6 @@
-<!-- INTRO VIDEO / HEADER -->
+<!-- HEADER -->
 <p align="center">
-  <img src="https://media.tenor.com/zZm3P1lClYIAAAAd/f1-formula1.gif" width="700" />
+  <img src="https://i.imgur.com/your-image.gif" width="700" />
 </p>
 
 ---
@@ -11,7 +11,7 @@ Currently studying **Associate in Computer Technology (ACT)** at *City College o
 My course helps me build strong foundations in **computer systems**, **programming**, and **IT problem-solving**.
 
 💻 I’m passionate about technology — from **coding and web design** to **database systems** and **networking**.  
-🏁 My goal is to become a **skilled, creative, and driven IT professional**, bringing innovation to life through code and performance like an F1 team on race day.
+🏁 My goal is to become a **skilled, creative, and driven IT professional**, bringing innovation to life through code and precision like a Formula 1 race team.
 
 ---
 
@@ -28,36 +28,36 @@ My course helps me build strong foundations in **computer systems**, **programmi
 
 ---
 
-## 🏁 Formula 1 Projects Showcase
+## 🏁 Projects
 
 <p align="center">
 
-<!-- Project 1 – Lando Norris -->
+<!-- Project 1 -->
 <a href="https://docs.google.com/document/d/1_pft0aV4S7Varn34J7FPCqVZyPM1mMrgYIg4trXhZKo/edit?usp=drivesdk" target="_blank">
-  <img src="https://64.media.tumblr.com/c296b65b45c6fe52e3e0cae3db7be5a5/9958f4438a3896f2-f9/s640x960/346cea518cdf282f0f8c5c8ecf796895f7b5a984.gif"
-       width="300"
-       style="border-radius:20px; box-shadow:0 4px 12px rgba(255,165,0,0.6); margin:10px;">
-  <br><b>Project 1 – System Concept Report (Lando Norris)</b>
+  <img src="https://i.imgur.com/your-project1-image.gif"
+       width="320"
+       style="border-radius:15px; box-shadow:0 4px 12px rgba(255, 69, 0, 0.6); margin:10px;">
+  <br><b>Project 1</b>
 </a>
 
 <br><br>
 
-<!-- Project 2 – Max Verstappen -->
+<!-- Project 2 -->
 <a href="https://docs.google.com/document/d/1CTLuepA-ARNKHA8OoR0z8Yapa-OmhtKpPawICcqWa_A/edit?usp=sharing" target="_blank">
-  <img src="https://media.tenor.com/tg28WEO2hLoAAAAM/f1-pitstop.gif"
-       width="300"
-       style="border-radius:20px; box-shadow:0 4px 12px rgba(255,0,0,0.6); margin:10px;">
-  <br><b>Project 2 – Technical Proposal (Max Verstappen)</b>
+  <img src="https://i.imgur.com/your-project2-image.gif"
+       width="320"
+       style="border-radius:15px; box-shadow:0 4px 12px rgba(255, 0, 0, 0.6); margin:10px;">
+  <br><b>Project 2</b>
 </a>
 
 <br><br>
 
-<!-- Project 3 – Charles Leclerc -->
+<!-- Project 3 -->
 <a href="https://docs.google.com/document/d/1TM05XjqK8tfkRDAfzmLQVk6TVrSO7-yDHLqnjbD41R4/edit?usp=drivesdk" target="_blank">
-  <img src="https://i.makeagif.com/media/11-14-2023/ylEnIn.gif"
-       width="300"
-       style="border-radius:20px; box-shadow:0 4px 12px rgba(255,0,0,0.6); margin:10px;">
-  <br><b>Project 3 – Final Research Report (Charles Leclerc)</b>
+  <img src="https://i.imgur.com/your-project3-image.gif"
+       width="320"
+       style="border-radius:15px; box-shadow:0 4px 12px rgba(255, 0, 0, 0.6); margin:10px;">
+  <br><b>Project 3</b>
 </a>
 
 </p>
@@ -71,4 +71,4 @@ My course helps me build strong foundations in **computer systems**, **programmi
 
 ---
 
-🏁 *Every project represents a lap toward excellence in technology — fast, focused, and built to win.*
+🏁 *Each project is another lap forward in my journey as an IT professional — fast, focused, and built for results.*
