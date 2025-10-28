@@ -5,7 +5,11 @@
 
 ---
 
-# 🏎️ Hey! I’m **Benz Javier**
+<h1 align="center">
+  🏎️ Hey! I’m <b>Benz Javier</b>
+  <img src="1000000474.png" width="70" style="border-radius:50%; vertical-align:middle; margin-left:10px;" />
+</h1>
+
 Currently studying **Associate in Computer Technology (ACT)** at *City College of Angeles*.
 
 My course helps me build strong foundations in **computer systems**, **programming**, and **IT problem-solving**.
@@ -19,6 +23,23 @@ My course helps me build strong foundations in **computer systems**, **programmi
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,git,github,vscode,netbeans&theme=light" />
+</p>
+
+<p align="center">
+  <b>Concepts I love working with:</b><br>
+  🧱 Object-Oriented Programming (OOP) • 🧮 Data Structures • 🌐 Networking • 🖥️ System Design
+</p>
+
+---
+
+## 🏁 Projects
+
+<p align="center">
+
+<!-- Project 1 -->
+<div style="display:inline-block; text-align:center; margin:10px;">
+  <a href="https://docs.google.com/document/d/1_pft0aV4S7Varn34J7FPCqVZyPM1mMrgYIg4trXhZKo/edit?usp=drivesdk" target="_blank">
+    <img src="https://media.giphy.com
 </p>
 
 <p align="center">
