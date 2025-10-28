@@ -73,4 +73,8 @@ My course helps me build strong foundations in **computer systems**, **programmi
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/L2W1uHP3SMjRhfk0dk/giphy.gif" width="500" />
+</p>
+
 🏁 *Each project is another lap forward in my journey as an IT professional — fast, focused, and built for results.*
