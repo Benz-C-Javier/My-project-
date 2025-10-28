@@ -35,7 +35,7 @@ My course helps me build strong foundations in **computer systems**, **programmi
 <!-- Project 1 -->
 <div style="display:inline-block; text-align:center; margin:10px;">
   <a href="https://docs.google.com/document/d/1_pft0aV4S7Varn34J7FPCqVZyPM1mMrgYIg4trXhZKo/edit?usp=drivesdk" target="_blank">
-    <img src="https://media.giphy.com/media/szdF8Wah6O8gENnFxp/giphy.gif"
+    <img src="https://media.giphy.com/media/hVCcd5ZK9jnsA3Z0cn/giphy.gif"
          width="320"
          style="border-radius:15px; box-shadow:0 4px 12px rgba(255, 69, 0, 0.6);">
     <br><b>Project 1</b>
