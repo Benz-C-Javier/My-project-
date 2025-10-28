@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://i.imgur.com/your-image.gif" width="700" />
+  <img src="https://media.giphy.com/media/gDP9RTZEXVY5MgRuCu/giphy.gif" width="700" />
 </p>
 
 ---
@@ -34,7 +34,7 @@ My course helps me build strong foundations in **computer systems**, **programmi
 
 <!-- Project 1 -->
 <a href="https://docs.google.com/document/d/1_pft0aV4S7Varn34J7FPCqVZyPM1mMrgYIg4trXhZKo/edit?usp=drivesdk" target="_blank">
-  <img src="https://i.imgur.com/your-project1-image.gif"
+  <img src="https://media.giphy.com/media/hVCcd5ZK9jnsA3Z0cn/giphy.gif"
        width="320"
        style="border-radius:15px; box-shadow:0 4px 12px rgba(255, 69, 0, 0.6); margin:10px;">
   <br><b>Project 1</b>
@@ -44,7 +44,7 @@ My course helps me build strong foundations in **computer systems**, **programmi
 
 <!-- Project 2 -->
 <a href="https://docs.google.com/document/d/1CTLuepA-ARNKHA8OoR0z8Yapa-OmhtKpPawICcqWa_A/edit?usp=sharing" target="_blank">
-  <img src="https://i.imgur.com/your-project2-image.gif"
+  <img src="https://media.giphy.com/media/khtr4yAlnI5KDZkzon/giphy.gif"
        width="320"
        style="border-radius:15px; box-shadow:0 4px 12px rgba(255, 0, 0, 0.6); margin:10px;">
   <br><b>Project 2</b>
@@ -54,7 +54,7 @@ My course helps me build strong foundations in **computer systems**, **programmi
 
 <!-- Project 3 -->
 <a href="https://docs.google.com/document/d/1TM05XjqK8tfkRDAfzmLQVk6TVrSO7-yDHLqnjbD41R4/edit?usp=drivesdk" target="_blank">
-  <img src="https://i.imgur.com/your-project3-image.gif"
+  <img src="https://media.giphy.com/media/g8Jcxh1rACsjwUZdwx/giphy.gif"
        width="320"
        style="border-radius:15px; box-shadow:0 4px 12px rgba(255, 0, 0, 0.6); margin:10px;">
   <br><b>Project 3</b>
