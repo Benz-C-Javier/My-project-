@@ -33,6 +33,7 @@ My course helps me build strong foundations in **computer systems**, **programmi
 <p align="center">
 
 <!-- Project 1 -->
+
 <div style="display:inline-block; text-align:center; margin:10px;">
   <a href="https://docs.google.com/document/d/1_pft0aV4S7Varn34J7FPCqVZyPM1mMrgYIg4trXhZKo/edit?usp=drivesdk" target="_blank">
     <img src="https://media.giphy.com/media/hVCcd5ZK9jnsA3Z0cn/giphy.gif"
@@ -43,6 +44,7 @@ My course helps me build strong foundations in **computer systems**, **programmi
 </div>
 
 <!-- Project 2 -->
+
 <div style="display:inline-block; text-align:center; margin:10px;">
   <a href="https://docs.google.com/document/d/1CTLuepA-ARNKHA8OoR0z8Yapa-OmhtKpPawICcqWa_A/edit?usp=sharing" target="_blank">
     <img src="https://media.giphy.com/media/VkXYtYrWjMtyyyjFBL/giphy.gif"
@@ -53,6 +55,7 @@ My course helps me build strong foundations in **computer systems**, **programmi
 </div>
 
 <!-- Project 3 -->
+
 <div style="display:inline-block; text-align:center; margin:10px;">
   <a href="https://docs.google.com/document/d/1TM05XjqK8tfkRDAfzmLQVk6TVrSO7-yDHLqnjbD41R4/edit?usp=drivesdk" target="_blank">
     <img src="https://media.giphy.com/media/6yxmDC0iysMyeCy01M/giphy.gif"
