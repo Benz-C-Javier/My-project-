@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/gDP9RTZEXVY5MgRuCu/giphy.gif" width="700" />
+  <img src="https://media.giphy.com/media/J2TpFajsb9cvLEldkN/giphy.gif" width="700" />
 </p>
 
 ---
