@@ -1,8 +1,8 @@
 Hey! I’m **Benz Javier**, currently taking up **Associate in Computer Technology (ACT)** at *City College of Angeles*.  
 Like an F1 engineer fine-tuning a car, I’m focused on mastering **computer systems**, **programming**, and **problem-solving**.
 
-🏎️ I’m passionate about **technology, coding, and innovation** — building systems that run as smoothly as a championship-winning car.  
-🔥 My goal is to become a **driven, skilled, and creative IT professional** who brings high-speed ideas to life through code.
+🏎️ I’m passionate about **technology and innovation** — from **coding and web design** to **networking and system development**.  
+🔥 My goal is to become a **driven, skilled, and creative IT professional** who brings ideas to life through code.
 
 ---
 
@@ -23,10 +23,10 @@ Like an F1 engineer fine-tuning a car, I’m focused on mastering **computer sys
 
 <p align="center">
 
-  <!-- Project 1 – Lando Norris (McLaren) -->
+  <!-- Project 1 – Lando Norris -->
   <a href="https://docs.google.com/document/d/1_pft0aV4S7Varn34J7FPCqVZyPM1mMrgYIg4trXhZKo/edit?usp=drivesdk" target="_blank">
-    <img alt="Project 1 – Lando Norris" title="Project 1"
-      src="https://media.tenor.com/7qfEnYBbKegAAAAM/lando-norris-mclaren.gif" width="240"
+    <img alt="Lando Norris Waving" title="Project 1"
+      src="https://media.tenor.com/3VXMxdOvhxUAAAAM/lando-norris-wave.gif" width="220"
       style="border-radius:25px; box-shadow:0 10px 20px rgba(255,140,0,0.6); transition:transform 0.3s, box-shadow 0.3s;"
       onmouseover="this.style.transform='scale(1.15)'; this.style.boxShadow='0 20px 30px rgba(255,140,0,0.9)';"
       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 10px 20px rgba(255,140,0,0.6)';"/>
@@ -35,10 +35,10 @@ Like an F1 engineer fine-tuning a car, I’m focused on mastering **computer sys
 
   <br><br>
 
-  <!-- Project 2 – Max Verstappen (Red Bull) -->
+  <!-- Project 2 – Max Verstappen -->
   <a href="https://docs.google.com/document/d/1CTLuepA-ARNKHA8OoR0z8Yapa-OmhtKpPawICcqWa_A/edit?usp=sharing" target="_blank">
-    <img alt="Project 2 – Max Verstappen" title="Project 2"
-      src="https://media.tenor.com/5gNKFQuhytoAAAAM/max-verstappen-red-bull.gif" width="240"
+    <img alt="Max Verstappen Waving" title="Project 2"
+      src="https://media.tenor.com/7_vtwk-bMxUAAAAM/max-verstappen-wave.gif" width="220"
       style="border-radius:25px; box-shadow:0 10px 20px rgba(0,80,255,0.6); transition:transform 0.3s, box-shadow 0.3s;"
       onmouseover="this.style.transform='scale(1.15)'; this.style.boxShadow='0 20px 30px rgba(0,80,255,0.9)';"
       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 10px 20px rgba(0,80,255,0.6)';"/>
@@ -47,10 +47,10 @@ Like an F1 engineer fine-tuning a car, I’m focused on mastering **computer sys
 
   <br><br>
 
-  <!-- Project 3 – Charles Leclerc (Ferrari) -->
+  <!-- Project 3 – Charles Leclerc -->
   <a href="https://docs.google.com/document/d/1TM05XjqK8tfkRDAfzmLQVk6TVrSO7-yDHLqnjbD41R4/edit?usp=drivesdk" target="_blank">
-    <img alt="Project 3 – Charles Leclerc" title="Project 3"
-      src="https://media.tenor.com/AH1DZXpTjT0AAAAM/charles-leclerc-ferrari.gif" width="240"
+    <img alt="Charles Leclerc Waving" title="Project 3"
+      src="https://media.tenor.com/y7Hms15edFIAAAAM/charles-leclerc-wave.gif" width="220"
       style="border-radius:25px; box-shadow:0 10px 20px rgba(255,0,0,0.6); transition:transform 0.3s, box-shadow 0.3s;"
       onmouseover="this.style.transform='scale(1.15)'; this.style.boxShadow='0 20px 30px rgba(255,0,0,0.9)';"
       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 10px 20px rgba(255,0,0,0.6)';"/>
