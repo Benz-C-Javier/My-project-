@@ -1,6 +1,6 @@
-<!-- Formula 1 Intro Video -->
+<!-- Formula 1 Banner GIF -->
 <p align="center">
-  <video src="https://files.oaiusercontent.com/file-QXFH9VvScssbT4VGHF5NR6" width="600" controls autoplay muted loop style="border-radius:20px; box-shadow:0 6px 18px rgba(255,0,0,0.6);"></video>
+  <img src="https://media.giphy.com/media/jnVS8vIf7Rguo/giphy.gif" width="700" style="border-radius:15px;">
 </p>
 
 ---
@@ -13,7 +13,7 @@ My course helps me build strong foundations in **computer systems**, **programmi
 
 ---
 
-### 🪄 Tech Stack & Skills  
+### 🪄 Tech Stack & Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,git,github,vscode,netbeans&theme=light" />
@@ -26,15 +26,13 @@ My course helps me build strong foundations in **computer systems**, **programmi
 
 ---
 
-## 🏁 Formula 1 Projects Showcase  
+## 🏁 Formula 1 Projects Showcase
 
 <p align="center">
 
 <!-- Project 1 – Lando Norris -->
 <a href="https://docs.google.com/document/d/1_pft0aV4S7Varn34J7FPCqVZyPM1mMrgYIg4trXhZKo/edit?usp=drivesdk" target="_blank">
-  <img src="https://files.oaiusercontent.com/file_000000004dac61f9abda6e9e70059230" 
-       width="260" 
-       style="border-radius:20px; box-shadow:0 4px 12px rgba(255,165,0,0.6); margin:10px;">
+  <img src="https://media.giphy.com/media/3o7TKP9FqZQKNTpKyk/giphy.gif" width="250" style="border-radius:15px; margin:10px;">
   <br><b>Project 1 – System Concept Report (Lando Norris)</b>
 </a>
 
@@ -42,9 +40,7 @@ My course helps me build strong foundations in **computer systems**, **programmi
 
 <!-- Project 2 – Max Verstappen -->
 <a href="https://docs.google.com/document/d/1hOAhGEXAMPLEdocLink2/edit?usp=sharing" target="_blank">
-  <img src="https://files.oaiusercontent.com/file_000000001b946208aa9530e10d432b10" 
-       width="260" 
-       style="border-radius:20px; box-shadow:0 4px 12px rgba(255,0,0,0.6); margin:10px;">
+  <img src="https://media.giphy.com/media/UqU0jVv5Y4N8U/giphy.gif" width="250" style="border-radius:15px; margin:10px;">
   <br><b>Project 2 – Technical Proposal (Max Verstappen)</b>
 </a>
 
@@ -52,9 +48,7 @@ My course helps me build strong foundations in **computer systems**, **programmi
 
 <!-- Project 3 – Charles Leclerc -->
 <a href="https://docs.google.com/document/d/1TM05XjqK8tfkRDAfzmLQVk6TVrSO7-yDHLqnjbD41R4/edit?usp=drivesdk" target="_blank">
-  <img src="https://files.oaiusercontent.com/file_0000000096d46208822a23c663be1f49" 
-       width="260" 
-       style="border-radius:20px; box-shadow:0 4px 12px rgba(255,0,0,0.6); margin:10px;">
+  <img src="https://media.giphy.com/media/26FPnsRww7Z1G3aF6/giphy.gif" width="250" style="border-radius:15px; margin:10px;">
   <br><b>Project 3 – Final Research Report (Charles Leclerc)</b>
 </a>
 
