@@ -69,7 +69,7 @@ My course helps me build strong foundations in **computer systems**, **programmi
 ## 📫 Contact Me
 
 📧 **Email:** [benzcanlasjavier05@gmail.com](mailto:benzcanlasjavier05@gmail.com)  
-💻 **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+💻 **GitHub:** [github.com/Benz-C-Javier](https://github.com/Benz-C-Javier)
 
 ---
 
