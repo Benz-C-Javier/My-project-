@@ -39,7 +39,7 @@ My course helps me build strong foundations in **computer systems**, **programmi
 <!-- Project 1 -->
 <div style="display:inline-block; text-align:center; margin:10px;">
   <p><b>Project 1</b></p>
-  <a href="https://docs.google.com/document/d/1_pft0aV4S7Varn34J7FPCqVZyPM1mMrgYIg4trXhZKo/edit?usp=drivesdk" target="_blank">
+  <a href="https://docs.google.com/document/d/1PD_yfooJuctDMTJ3rGYyRdsbh1MOXV-epsbw_PyI478/edit?tab=t.0" target="_blank">
     <img src="https://media.giphy.com/media/hVCcd5ZK9jnsA3Z0cn/giphy.gif"
          width="320"
          style="border-radius:15px; box-shadow:0 4px 12px rgba(255, 69, 0, 0.6);">
@@ -49,7 +49,7 @@ My course helps me build strong foundations in **computer systems**, **programmi
 <!-- Project 2 -->
 <div style="display:inline-block; text-align:center; margin:10px;">
   <p><b>Project 2</b></p>
-  <a href="https://docs.google.com/document/d/1CTLuepA-ARNKHA8OoR0z8Yapa-OmhtKpPawICcqWa_A/edit?usp=sharing" target="_blank">
+  <a href="https://docs.google.com/document/d/1f2f1WhEPQlLf9pKkPaeDr7iHEEhJf67pNzalLSAHxlw/edit?usp=sharing" target="_blank">
     <img src="https://media.giphy.com/media/VkXYtYrWjMtyyyjFBL/giphy.gif"
          width="320"
          style="border-radius:15px; box-shadow:0 4px 12px rgba(255, 0, 0, 0.6);">
@@ -59,7 +59,7 @@ My course helps me build strong foundations in **computer systems**, **programmi
 <!-- Project 3 -->
 <div style="display:inline-block; text-align:center; margin:10px;">
   <p><b>Project 3</b></p>
-  <a href="https://docs.google.com/document/d/1TM05XjqK8tfkRDAfzmLQVk6TVrSO7-yDHLqnjbD41R4/edit?usp=drivesdk" target="_blank">
+  <a href="https://docs.google.com/document/d/1TM05XjqK8tfkRDAfzmLQVk6TVrSO7-yDHLqnjbD41R4/edit?tab=t.0" target="_blank">
     <img src="https://media.giphy.com/media/6yxmDC0iysMyeCy01M/giphy.gif"
          width="320"
          style="border-radius:15px; box-shadow:0 4px 12px rgba(255, 0, 0, 0.6);">
@@ -82,3 +82,7 @@ My course helps me build strong foundations in **computer systems**, **programmi
 </p>
 
 🏁 *Each project is another lap forward in my journey as an IT professional — fast, focused, and built for results.*
+
+<p align="center">
+  <em>"Code your dreams, debug your fears, and build your future one project at a time."</em>
+</p>
