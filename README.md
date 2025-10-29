@@ -49,7 +49,6 @@
 
 <!-- Project 2 -->
 <div style="display:inline-block; text-align:center; margin:10px;">
-  <p><b>Project 2:</b> Web-Based Inventory Tracker</p>
   <a href="https://docs.google.com/document/d/1f2f1WhEPQlLf9pKkPaeDr7iHEEhJf67pNzalLSAHxlw/edit?usp=sharing" target="_blank">
     <img src="https://media.giphy.com/media/VkXYtYrWjMtyyyjFBL/giphy.gif"
          width="320"
@@ -59,7 +58,6 @@
 
 <!-- Project 3 -->
 <div style="display:inline-block; text-align:center; margin:10px;">
-  <p><b>Project 3:</b> Networking Fundamentals Documentation</p>
   <a href="https://docs.google.com/document/d/1TM05XjqK8tfkRDAfzmLQVk6TVrSO7-yDHLqnjbD41R4/edit?tab=t.0" target="_blank">
     <img src="https://media.giphy.com/media/6yxmDC0iysMyeCy01M/giphy.gif"
          width="320"
@@ -85,4 +83,3 @@
 <p align="center">
   <em>"Code your dreams, debug your fears, and build your future one project at a time."</em>
 </p>
-
