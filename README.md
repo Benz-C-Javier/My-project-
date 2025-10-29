@@ -40,7 +40,6 @@
 
 <!-- Project 1 -->
 <div style="display:inline-block; text-align:center; margin:10px;">
-  <p><b>Project 1:</b> Java-based Library Management System</p>
   <a href="https://docs.google.com/document/d/1PD_yfooJuctDMTJ3rGYyRdsbh1MOXV-epsbw_PyI478/edit?tab=t.0" target="_blank">
     <img src="https://media.giphy.com/media/hVCcd5ZK9jnsA3Z0cn/giphy.gif"
          width="320"
@@ -86,3 +85,4 @@
 <p align="center">
   <em>"Code your dreams, debug your fears, and build your future one project at a time."</em>
 </p>
+
